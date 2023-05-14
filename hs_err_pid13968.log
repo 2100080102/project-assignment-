@@ -193,12 +193,12 @@ Dynamic libraries:
 VM Arguments:
 jvm_args: -Dfile.encoding=UTF-8 
 java_command: HomePage
-java_class_path (initial): C:\Users\TEJASHRI SURYAWANSHI\Documents\NetBeansProjects\Assignment-Management-System\lib\mysql-connector-java-8.0.22.jar;C:\Users\TEJASHRI SURYAWANSHI\Documents\NetBeansProjects\Assignment-Management-System\build\classes
+java_class_path (initial): C:\Users\acer\Documents\NetBeansProjects\Assignment-Management-System\lib\mysql-connector-java-8.0.22.jar;C:\Users\acer\Documents\NetBeansProjects\Assignment-Management-System\build\classes
 Launcher Type: SUN_STANDARD
 
 Environment Variables:
-PATH=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python3.8\Scripts\;C:\Python3.8\;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\MongoDB\Server\4.4\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\TEJASHRI SURYAWANSHI\AppData\Local\Microsoft\WindowsApps;C:\Users\TEJASHRI SURYAWANSHI\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\TEJASHRI SURYAWANSHI\AppData\Local\GitHubDesktop\bin
-USERNAME=TEJASHRI SURYAWANSHI
+PATH=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python3.8\Scripts\;C:\Python3.8\;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\MongoDB\Server\4.4\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\acer\AppData\Local\Microsoft\WindowsApps;C:system3\acer\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\acer\AppData\Local\GitHubDesktop\bin
+USERNAME=acer
 OS=Windows_NT
 PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
 
